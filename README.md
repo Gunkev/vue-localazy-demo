@@ -140,4 +140,4 @@ Localazy keys are stored in:
 localazy.keys.json
 ```
 
-
+This the link to the full guide: https://localazy.com/blog/how-to-localize-vuejs-app-with-vue-i18n-and-localazy
